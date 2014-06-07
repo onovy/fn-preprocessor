@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.0" creator="Groundspeak, Inc. All Rights Reserved. http://www.groundspeak.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+  <name>Fake Cache Listing</name>
+  <desc>Fake cache</desc>
+  <author>onovy</author>
+  <email>novy@ondrej.org</email>
+  <url>http://fn.ondrej.org/</url>
+  <urlname>FN</urlname>
+  <time>2010-11-20T23:09:51.8829146Z</time>
+  <keywords>cache, geocache</keywords>
+  <bounds minlat="50.0" minlon="15.0" maxlat="50.0" maxlon="15.0" />
+  <wpt lat="50.0" lon="15.0">
+    <time>2000-06-11T07:00:00Z</time>
+    <name>GCZZZZZ</name>
+    <desc>Neexistujici kes by onovy, Fake Cache (1/1)</desc>
+    <url>http://fn.ondrej.org/</url>
+    <urlname>Neexistujici kes</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Fake Cache</type>
+    <groundspeak:cache id="1" available="False" archived="True" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+      <groundspeak:name>Neexistujici kes</groundspeak:name>
+      <groundspeak:placed_by>onovy</groundspeak:placed_by>
+      <groundspeak:owner id="1">onovy</groundspeak:owner>
+      <groundspeak:type>Fake Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:attributes />
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Fake country</groundspeak:country>
+      <groundspeak:state>Fake state</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True"></groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs />
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+</gpx>

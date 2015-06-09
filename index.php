@@ -115,7 +115,7 @@ if (isset($_POST['download'])) {
 <form method='post' action='' enctype="multipart/form-data">
 <div>
     <label for='count'>Nalezenych kesi:</label>
-    <input type='text' name='count' id='count' value='<?php echo htmlspecialchars($_POST['count']); ?>' />
+    <input type='text' name='count' id='count' value='<?php echo isset($_POST['count']) ? htmlspecialchars($_POST['count']) : ""; ?>' />
 </div>
 <div>
     <label for='format'>Format:</label>
